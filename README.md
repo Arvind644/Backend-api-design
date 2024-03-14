@@ -17,11 +17,11 @@
 
 ### Tech stack
 
-Node js 
-Express js
-Render -> Deployment
-Prisma -> ORM
-Postgres -> Database
-Jest -> For unit testing
-Supertest -> For integration testing
+Node js <br />
+Express js <br />
+Render -> Deployment <br />
+Prisma -> ORM <br />
+Postgres -> Database <br />
+Jest -> For unit testing <br />
+Supertest -> For integration testing <br />
 TypeScript -> For type safety
